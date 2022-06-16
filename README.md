@@ -1,7 +1,7 @@
 <h1>Music Player | Vanilla JavaScript</h1>
 
 <h1>
-  <img src="https://">
+  <img src="https://ik.imagekit.io/ladeiaDev/2022-06-16-18-07-remarkable-kitten-a62cf0.netlify.app_hm0o_aGM7.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655413648392">
 </h1>
 
 <h3 align="center">
